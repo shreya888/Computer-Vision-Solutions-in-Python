@@ -34,7 +34,6 @@ Computer-Vision-Solutions-in-Python/
     │   ├── visualizing points selected resized.png # Points on resized image
     │   ├── T2 My homography warp result with near points.png # Result of warping with near points
     │   ├── T2 My homography warp result when points are far away.png # Result of warping with far points
-    ├── reports/
-    │   └── CLab3-Report-U7195872.pdf    # Final lab report detailing the tasks, analysis, and results of the lab
+    ├── CLab3-Report-U7195872.pdf    # Final lab report detailing the tasks, analysis, and results of the lab
     ├── README.md                        # This file, with instructions and project info
 ```
