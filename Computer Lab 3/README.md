@@ -17,6 +17,3 @@ The code in this repository solves the following tasks:
 
 #### Task 2: Homography
 - Objective: To compute and apply a homography matrix to warp an image. The homography is computed from a set of corresponding points in two images, and the result is used for tasks like image stitching and object recognition.
-
-#### Task 3: Stereo Vision
-- Objective: To implement stereo vision techniques, including disparity map calculation, depth estimation, and 3D reconstruction from stereo image pairs. The final output is a visualization of the 3D structure of the scene.
