@@ -6,19 +6,19 @@ This repository contains solutions to various Computer Vision Lab assignments as
 
 Each assignment is self-contained and includes detailed explanations, code, and output. The assignments are structured as follows:
 
-#### Task 1: Python Warm-up
+#### Lab 1: Python Warm-up
 
 - A series of basic Python operations and their interpretations.
 - Focuses on fundamental concepts like array creation, slicing, random number generation, and element-wise operations.
 - Implements and explains NumPy (or MATLAB) operations such as arrays, linear space, broadcasting, and conditional operations.
 
-#### Task 2: [Future Assignment Name]
+#### Lab 2: [Future Assignment Name]
 
 [Add details for your second assignment here].
 
 [Describe the problem statement, the approach you took, any specific techniques used like image processing, feature extraction, or machine learning].
 
-#### Task 3: [Future Assignment Name]
+#### Lab 3: [Future Assignment Name]
 
 [Add details for your third assignment here].
 
