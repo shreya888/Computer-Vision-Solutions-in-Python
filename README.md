@@ -2,9 +2,9 @@
 
 ## Overview
 
-This repository contains solutions to various Computer Vision Lab assignments as part of ANU's ENGN6528 (attempted by me) that focus on Python programming and computer vision concepts. The assignments cover a variety of fundamental techniques and challenges in computer vision, mathematical operations, and numerical analysis using libraries like NumPy and OpenCV (for Python).
+This repository contains the solutions to the Computer Vision assignments for ENGN6528. The lab work involves implementing various computer vision algorithms in Python and analyzing the results.
 
-Each assignment is self-contained and includes detailed explanations, code, and output. The assignments are structured as follows:
+Each assignment is self-contained and includes code, results, images, and detailed reports explaining all outputs. The assignments are structured as follows:
 
 #### Lab 1: Python Warm-up
 
