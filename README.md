@@ -6,23 +6,24 @@ This repository contains the solutions to the Computer Vision assignments for EN
 
 Each assignment is self-contained and includes code, results, images, and detailed reports explaining all outputs. The assignments are structured as follows:
 
-#### Lab 1: Python Warm-up
+#### CLab 1: Python Warm-up
 
-- A series of basic Python operations and their interpretations.
-- Focuses on fundamental concepts like array creation, slicing, random number generation, and element-wise operations.
-- Implements and explains NumPy (or MATLAB) operations such as arrays, linear space, broadcasting, and conditional operations.
+- Basic Python Operations: Covers fundamental operations like array creation, slicing, random number generation, and element-wise operations.
+- NumPy Operations: Focuses on array manipulations, linear space generation, broadcasting, and conditional operations.
+- Goal: Build a solid understanding of Python and NumPy essentials for computer vision tasks.
 
-#### Lab 2: [Future Assignment Name]
+#### CLab 2: [Future Assignment Name]
 
 [Add details for your second assignment here].
 
 [Describe the problem statement, the approach you took, any specific techniques used like image processing, feature extraction, or machine learning].
 
-#### Lab 3: [Future Assignment Name]
+#### CLab 3: Camera Calibration & Homography Estimation
 
-[Add details for your third assignment here].
-
-[Provide a short summary of the problem, the approach, and techniques used].
+- Camera Calibration: Estimates intrinsic parameters (focal length, principal point) and distortion coefficients using known 3D world points and their 2D image projections.
+- Homography Estimation: Applies the Direct Linear Transformation (DLT) method to compute a homography matrix for image warping based on corresponding points between two images.
+- Techniques: Camera matrix decomposition, image transformation, and 3D point visualization.
+- Results: Calibration output, homography warping results, and visualizations of selected points and 3D structures.
 
 ## Requirements
 
